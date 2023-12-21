@@ -23,8 +23,8 @@ body{
 
 .sociali{
     display: inline-block;
-    width: 16px;
-    height: 16px;
+    width: 160px;
+    height: 160px;
     flex-shrink: 0;
     stroke-width: 0;
     stroke: currentColor;
