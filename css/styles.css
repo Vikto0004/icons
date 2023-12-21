@@ -8,7 +8,6 @@ body{
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
-    background-image: url(./img/icomoon/symbol-defs.svg#icon-Ellipse);
   }
 
 .ellipse{
