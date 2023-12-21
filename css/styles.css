@@ -3,29 +3,9 @@ body{
 }
 .icon {
     display: inline-block;
-    width: 16px;
-    height: 16px;
+    width: 40px;
+    height: 40px;
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
   }
-
-.ellipse{
-    display: inline-block;
-    width: 200px;
-    height: 200px;
-    flex-shrink: 0;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
-}
-
-.sociali{
-    display: inline-block;
-    width: 16px;
-    height: 16px;
-    flex-shrink: 0;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
-}
