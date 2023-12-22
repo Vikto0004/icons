@@ -6,17 +6,18 @@ body{
     display: flex;
 }
 .icon-container{
-    width:100px;
-    height: 100px;
+    width:40px;
+    height: 40px;
     background-image: url(../img/Ellipse.svg);
     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 24px;
 } 
 .icon-container svg{
-    width: 60px;
-    height: 60px;
+    width: 16px;
+    height: 16px;
 }
 .icon-container:hover{
     background-image: url(../img/Ellipse-hover.svg);
