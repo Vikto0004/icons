@@ -5,8 +5,13 @@ body{
     width:100px;
     height: 100px;
     background-image: url(../img/Ellipse.svg);
-}
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
 .icon-container svg{
     width: 60px;
     height: 60px;
+
 }
