@@ -13,7 +13,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 24px;
+    margin: 0 24px;
 } 
 .icon-container svg{
     width: 16px;
