@@ -13,5 +13,7 @@ body{
 .icon-container svg{
     width: 60px;
     height: 60px;
-
+}
+.icon-container:hover{
+    background-image: url(../img/Ellipse-hover.svg);
 }
