@@ -3,5 +3,7 @@ body{
 }
 .icon {
     display: inline-block;
-    background: url(img/icomoon/symbol-defs.svg#icon-Ellipse);
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
   }
