@@ -4,6 +4,9 @@ body{
 
 .container{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
 }
 .icon-container{
     width:40px;
@@ -13,7 +16,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0 24px;
 } 
 .icon-container svg{
     width: 16px;
