@@ -1,12 +1,16 @@
 body{
     background-color: rgb(228, 135, 21);
 }
+
+.container{
+    display: flex;
+}
 .icon-container{
     width:100px;
     height: 100px;
     background-image: url(../img/Ellipse.svg);
     background-size: cover;
-    display: block;
+    display: flex;
     align-items: center;
     justify-content: center;
 } 
