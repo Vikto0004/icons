@@ -2,8 +2,5 @@ body{
     background-color: rgb(228, 135, 21);
 }
 .icon {
-    display: inline-block;
-    stroke-width: 0;
-    stroke: currentColor;
-    fill: currentColor;
+    
   }
