@@ -13,9 +13,6 @@ body{
     height: 40px;
     background-image: url(../img/Ellipse.svg);
     background-size: cover;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 } 
 .icon-container svg{
     width: 16px;
