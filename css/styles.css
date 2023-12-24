@@ -25,3 +25,28 @@ body{
     background-image: url(../img/Ellipse-hover.svg);
     cursor: pointer;
 }
+
+.parent-image {
+  position: relative;
+  border-radius: 14.795px;
+border: 0.616px solid rgba(255, 255, 255, 0.50);
+width: 182.491px;
+height: 193.035px;
+flex-shrink: 0;
+display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.child-image {
+  position: absolute;
+  top: 94.9px; /* Встановіть потрібні значення відступів */
+  left: 97.33px;
+}
+
+.imges{
+    width: 118.546px;
+height: 133.989px;
+flex-shrink: 0;
+}
