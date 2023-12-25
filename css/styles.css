@@ -29,11 +29,11 @@ body{
 .parent-image {
   position: relative;
   border-radius: 14.795px;
-border: 0.616px solid rgba(255, 255, 255, 0.50);
-width: 182.491px;
-height: 193.035px;
-flex-shrink: 0;
-display: flex;
+  border: 0.616px solid rgba(255, 255, 255, 0.50);
+  width: 182.491px;
+  height: 193.035px;
+  flex-shrink: 0;
+  display: flex;
   justify-content: center;
   align-items: center;
 
@@ -47,6 +47,6 @@ display: flex;
 
 .imges{
     width: 118.546px;
-height: 133.989px;
-flex-shrink: 0;
+    height: 133.989px;
+    flex-shrink: 0;
 }
