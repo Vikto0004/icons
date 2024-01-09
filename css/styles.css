@@ -50,3 +50,8 @@ body{
     height: 133.989px;
     flex-shrink: 0;
 }
+
+.iner{
+    height: 200px;
+    background-image: linear-gradient(blue 0 30%, red 30% 100%);
+}
